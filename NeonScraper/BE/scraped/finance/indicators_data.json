@@ -1,0 +1,68 @@
+[
+  {
+    "name": "S&P 500",
+    "price": 5427.13,
+    "change": -128.61035,
+    "changePercent": "-2.31"
+  },
+  {
+    "name": "Dow 30",
+    "price": 39853.87,
+    "change": -504.21875,
+    "changePercent": "-1.25"
+  },
+  {
+    "name": "Nasdaq",
+    "price": 17342.414,
+    "change": -654.9375,
+    "changePercent": "-3.64"
+  },
+  {
+    "name": "Russell 2000",
+    "price": 2195.373,
+    "change": -47.892334,
+    "changePercent": "-2.13"
+  },
+  {
+    "name": "Crude Oil",
+    "price": 77.47,
+    "change": 0.51000214,
+    "changePercent": "0.66"
+  },
+  {
+    "name": "Gold",
+    "price": 2398.3,
+    "change": -9,
+    "changePercent": "-0.37"
+  },
+  {
+    "name": "NVDA",
+    "price": 114.25,
+    "change": -8.339996,
+    "changePercent": "-6.80"
+  },
+  {
+    "name": "^IXIC",
+    "price": 17342.414,
+    "change": -654.9375,
+    "changePercent": "-3.64"
+  },
+  {
+    "name": "^GSPC",
+    "price": 5427.13,
+    "change": -128.61035,
+    "changePercent": "-2.31"
+  },
+  {
+    "name": "QQQ",
+    "price": 463.38,
+    "change": -17.23999,
+    "changePercent": "-3.59"
+  },
+  {
+    "name": "META",
+    "price": 461.27,
+    "change": -27.420013,
+    "changePercent": "-5.61"
+  }
+]
